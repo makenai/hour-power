@@ -1,0 +1,207 @@
+{
+  "total_grand": 100239000,
+  "total_billable": null,
+  "total_currencies": [
+    {
+      "currency": null,
+      "amount": null
+    }
+  ],
+  "data": [
+    {
+      "title": {
+        "client": "Codingscape",
+        "project": "Codingscape",
+        "color": "0",
+        "hex_color": "#e20505"
+      },
+      "pid": 127883783,
+      "totals": [
+        null,
+        null,
+        null,
+        13191000,
+        null,
+        null,
+        null,
+        13191000
+      ],
+      "details": [
+        {
+          "uid": 3527934,
+          "title": {
+            "user": "Makenai"
+          },
+          "totals": [
+            null,
+            null,
+            null,
+            13191000,
+            null,
+            null,
+            null,
+            13191000
+          ]
+        }
+      ]
+    },
+    {
+      "title": {
+        "client": "PictureThis",
+        "project": "Bug Fix / Deployment Round",
+        "color": "0",
+        "hex_color": "#c7741c"
+      },
+      "pid": 133866373,
+      "totals": [
+        null,
+        16001000,
+        null,
+        null,
+        11679000,
+        7380000,
+        null,
+        35060000
+      ],
+      "details": [
+        {
+          "uid": 3527934,
+          "title": {
+            "user": "Makenai"
+          },
+          "totals": [
+            null,
+            16001000,
+            null,
+            null,
+            11679000,
+            7380000,
+            null,
+            35060000
+          ]
+        }
+      ]
+    },
+    {
+      "title": {
+        "client": "PictureThis",
+        "project": "July 18 - Aug 8th",
+        "color": "0",
+        "hex_color": "#fb8b14"
+      },
+      "pid": 130113854,
+      "totals": [
+        12744000,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        12744000
+      ],
+      "details": [
+        {
+          "uid": 3527934,
+          "title": {
+            "user": "Makenai"
+          },
+          "totals": [
+            12744000,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            12744000
+          ]
+        }
+      ]
+    },
+    {
+      "title": {
+        "client": "PM360",
+        "project": "PM360",
+        "color": "0",
+        "hex_color": "#c56bff"
+      },
+      "pid": 133451608,
+      "totals": [
+        14704000,
+        null,
+        17557000,
+        null,
+        null,
+        null,
+        null,
+        32261000
+      ],
+      "details": [
+        {
+          "uid": 3527934,
+          "title": {
+            "user": "Makenai"
+          },
+          "totals": [
+            14704000,
+            null,
+            17557000,
+            null,
+            null,
+            null,
+            null,
+            32261000
+          ]
+        }
+      ]
+    },
+    {
+      "title": {
+        "client": "Tinder",
+        "project": "Tinder Tasks",
+        "color": "0",
+        "hex_color": "#ea468d"
+      },
+      "pid": 131236121,
+      "totals": [
+        null,
+        null,
+        null,
+        6983000,
+        null,
+        null,
+        null,
+        6983000
+      ],
+      "details": [
+        {
+          "uid": 3527934,
+          "title": {
+            "user": "Makenai"
+          },
+          "totals": [
+            null,
+            null,
+            null,
+            6983000,
+            null,
+            null,
+            null,
+            6983000
+          ]
+        }
+      ]
+    }
+  ],
+  "week_totals": [
+    27448000,
+    16001000,
+    17557000,
+    20174000,
+    11679000,
+    7380000,
+    null,
+    100239000
+  ]
+}

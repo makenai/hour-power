@@ -1,0 +1,63 @@
+{
+  "total_grand": 12175000,
+  "total_billable": null,
+  "total_currencies": [
+    {
+      "currency": null,
+      "amount": null
+    }
+  ],
+  "data": [
+    {
+      "id": 37346414,
+      "title": {
+        "client": "PictureThis"
+      },
+      "time": 12175000,
+      "total_currencies": [
+        {
+          "currency": null,
+          "amount": null
+        }
+      ],
+      "items": [
+        {
+          "title": {
+            "time_entry": "Multi-item shipping"
+          },
+          "time": 1335000,
+          "cur": null,
+          "sum": null,
+          "rate": null
+        },
+        {
+          "title": {
+            "time_entry": "Refund form bugs"
+          },
+          "time": 3415000,
+          "cur": null,
+          "sum": null,
+          "rate": null
+        },
+        {
+          "title": {
+            "time_entry": "Signout bug, datepicker updates, email templates"
+          },
+          "time": 5917000,
+          "cur": null,
+          "sum": null,
+          "rate": null
+        },
+        {
+          "title": {
+            "time_entry": "User upload thumbnails"
+          },
+          "time": 1508000,
+          "cur": null,
+          "sum": null,
+          "rate": null
+        }
+      ]
+    }
+  ]
+}
